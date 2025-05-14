@@ -19,7 +19,7 @@
   2. Identify key traits of them
   3. Suggest proactive strategies
  
-## 3. 🗃️ Dataset Information
+## 3. 🗃️ Dataset Description
 > *This project is a part of an activity at academic society BADA, and it is a fictional case study based on the [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) dataset from Kaggle. The data was used for non-commercial, academic purposes.*
 - **Files used**: `application_train.csv`, `application_test.csv`
 - **Key Features**: Default status(`TARGET`), gender, age, income, employment type, family status, contract type, etc.
